@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <rect width="400" height="500" fill="#FBE9EF"/>
+  <rect x="30" y="30" width="340" height="440" rx="20" fill="#F6CFDD" stroke="#ED9FBA" stroke-width="2" stroke-dasharray="8 4"/>
+  <!-- Person silhouette placeholder -->
+  <circle cx="200" cy="180" r="50" fill="none" stroke="#A93A5D" stroke-width="3"/>
+  <path d="M120 340 Q200 280 280 340" fill="none" stroke="#A93A5D" stroke-width="3"/>
+  <text x="200" y="390" font-family="sans-serif" font-size="15" font-weight="600" fill="#8E2F50" text-anchor="middle">FOTO DE SONIA</text>
+  <text x="200" y="413" font-family="sans-serif" font-size="12" fill="#6E5C66" text-anchor="middle">equipo-sonia.webp</text>
+  <text x="200" y="433" font-family="sans-serif" font-size="12" fill="#6E5C66" text-anchor="middle">Retrato profesional · 400×500px</text>
+</svg>
